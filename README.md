@@ -2,6 +2,12 @@
 
 # Cargo
 
+new
+
+```shell
+cargo new ex-variables
+```
+
 build and run
 
 ```shell
